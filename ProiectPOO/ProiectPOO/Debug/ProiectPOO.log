@@ -1,0 +1,8 @@
+﻿  Bilet.cpp
+C:\Radoi Ovidiu\Facultate\Anul 2\POO\ProiectPOO\ProiectPOO\Bilet.cpp(26,76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Radoi Ovidiu\Facultate\Anul 2\POO\ProiectPOO\ProiectPOO\Bilet.cpp(41,98): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Radoi Ovidiu\Facultate\Anul 2\POO\ProiectPOO\ProiectPOO\Bilet.cpp(95,76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Radoi Ovidiu\Facultate\Anul 2\POO\ProiectPOO\ProiectPOO\Bilet.cpp(101,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Radoi Ovidiu\Facultate\Anul 2\POO\ProiectPOO\ProiectPOO\Bilet.cpp(141,97): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Radoi Ovidiu\Facultate\Anul 2\POO\ProiectPOO\ProiectPOO\Bilet.cpp(184,109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ProiectPOO.vcxproj -> C:\Radoi Ovidiu\Facultate\Anul 2\POO\ProiectPOO\Debug\ProiectPOO.exe
