@@ -1,0 +1,41 @@
+l
+Sala spectacole
+1000
+2
+loja1
+loja2
+400
+500
+100
+80
+l
+Stadion
+1500
+3
+A
+B
+C
+300
+400
+500
+100
+150
+200
+e
+Sala spectacole
+Teatru
+12.06.2023
+20:00
+e
+Stadion
+Meci fotbal
+20.10.2023
+19:00
+b
+Teatru
+loja1
+30
+b
+Teatru
+loja2
+500

@@ -1,0 +1,13 @@
+l
+Salon evenimente
+1000
+3
+zona 1
+zona 2
+zona 3
+200
+200
+300
+300
+200
+100
